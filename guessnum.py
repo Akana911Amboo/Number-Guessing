@@ -2,7 +2,7 @@
 import random
 
 # Generate a random number between 1 and 10
-secret_number = random.randit(1, 10)
+secret_number = random.randint(1, 10)
 
 # Maximum attempts allowed
 max_attempts = 3
